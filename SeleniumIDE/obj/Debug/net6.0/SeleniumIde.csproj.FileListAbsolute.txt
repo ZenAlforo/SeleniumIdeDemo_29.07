@@ -101,3 +101,4 @@ C:\Users\zenle\source\repos\Workshop-CI-System-with-Selenium-Appium-Tests-I-Reso
 C:\Users\zenle\source\repos\Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\Users\zenle\source\repos\Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\Users\zenle\source\repos\Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\Users\zenle\source\repos\Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
